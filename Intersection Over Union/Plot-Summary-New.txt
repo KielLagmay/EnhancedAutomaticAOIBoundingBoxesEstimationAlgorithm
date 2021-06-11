@@ -1,0 +1,7 @@
+=============================================================
+The plot data have been written into the directories
+evalcurve-tr and evalcurve-tp.
+=============================================================
+Overall recall                  = 51.1
+Overall precision               = 36.0
+Final single performance value: = 42.2

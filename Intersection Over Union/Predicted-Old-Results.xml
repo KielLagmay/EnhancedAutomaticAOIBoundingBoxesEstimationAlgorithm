@@ -1,0 +1,4 @@
+  <evaluation noImages="10">
+    <icdar2003 r="0.561142" p="0.292436" hmean="0.384495" noGT="298" noD="874"/>
+    <score r="0.397986" p="0.281236" hmean="0.329577" noGT="298" noD="874"/>
+  </evaluation>
