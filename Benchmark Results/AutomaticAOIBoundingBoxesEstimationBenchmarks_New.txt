@@ -1,0 +1,55 @@
+Time Taken for frame225: 24.999329805374146
+Time Taken for frame803: 19.94339680671692
+Time Taken for frame18: 25.374905109405518
+Time Taken for frame125: 20.785038948059082
+Time Taken for frame691: 19.64698314666748
+Time Taken for frame703: 18.74632501602173
+Time Taken for frame267: 21.214180946350098
+Time Taken for frame139: 25.886903047561646
+Time Taken for frame170: 24.58067274093628
+Time Taken for frame176: 25.858153820037842
+
+Time Taken for frame225: 24.816153049468994
+Time Taken for frame803: 19.958283185958862
+Time Taken for frame18: 24.1082501411438
+Time Taken for frame125: 20.891781091690063
+Time Taken for frame691: 19.5497989654541
+Time Taken for frame703: 18.135770082473755
+Time Taken for frame267: 21.245058059692383
+Time Taken for frame139: 25.849231958389282
+Time Taken for frame170: 24.521862030029297
+Time Taken for frame176: 26.044867992401123
+
+Time Taken for frame225: 24.651137828826904
+Time Taken for frame803: 19.8474760055542
+Time Taken for frame18: 23.98993420600891
+Time Taken for frame125: 20.619266033172607
+Time Taken for frame691: 19.229185104370117
+Time Taken for frame703: 18.07356595993042
+Time Taken for frame267: 21.150235891342163
+Time Taken for frame139: 25.926629066467285
+Time Taken for frame170: 24.387773990631104
+Time Taken for frame176: 25.52562975883484
+
+Time Taken for frame225: 24.677927255630493
+Time Taken for frame803: 19.795018911361694
+Time Taken for frame18: 24.01051902770996
+Time Taken for frame125: 20.688896894454956
+Time Taken for frame691: 19.385064840316772
+Time Taken for frame703: 18.135618686676025
+Time Taken for frame267: 21.108234882354736
+Time Taken for frame139: 25.86506175994873
+Time Taken for frame170: 24.441309928894043
+Time Taken for frame176: 25.643185138702393
+
+Time Taken for frame225: 24.639519929885864
+Time Taken for frame803: 19.868732929229736
+Time Taken for frame18: 24.04350781440735
+Time Taken for frame125: 20.661516904830933
+Time Taken for frame691: 19.4478440284729
+Time Taken for frame703: 17.979933977127075
+Time Taken for frame267: 21.089155912399292
+Time Taken for frame139: 25.68123698234558
+Time Taken for frame170: 24.348469018936157
+Time Taken for frame176: 25.624418020248413
+
