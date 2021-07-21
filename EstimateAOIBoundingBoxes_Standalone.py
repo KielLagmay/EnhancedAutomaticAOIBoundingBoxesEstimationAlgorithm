@@ -84,9 +84,6 @@ from fast_slic import Slic as fastSLIC
 import os
 
 import time
-
-from Evaluation import evaluateResults
-
 import import_ipynb
 from DirectoryGenerator import DirectoryGenerator
 
